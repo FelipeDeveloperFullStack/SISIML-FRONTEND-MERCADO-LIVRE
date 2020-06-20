@@ -23,6 +23,7 @@ class PerguntasController extends React.Component {
     }
 
     setMessage = event => {
+        //** */
         const {target: {name, value}} = event
         this.setState({ [name]: value })
     }

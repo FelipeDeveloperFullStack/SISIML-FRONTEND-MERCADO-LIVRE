@@ -113,7 +113,7 @@ export default function Admin(props) {
 
   const atualizarAtividadeDiaria = async (userId, questionLength, venda) => {
     await axios.post(`${DOMAIN}/atividade/find_by/user`, { userId }).then(async response => {
-      //SE CASO O USUÁRIO NÃO TIVER NENHUM REGISTRO DE ATIVIDADE DIÁRIA, SALVA UM NOVO REGISTRO
+      //SE CASO O USUÁRIO NÃO TIVER NENHUM REGISTRO DE ATIVIDADE DIÁRIA, SALVA UM NOVO REGISTRO!
       if (response.data.length === 0) {
         await axios.post(`${DOMAIN}/atividade/save`, {
           usuario: userId,
