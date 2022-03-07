@@ -3,12 +3,12 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FelipeDeveloperFullStack/SISIML_CLIENT">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FelipeDeveloperFullStack/SISIML-FRONTEND-MERCADO-LIVRE">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FelipeDeveloperFullStack/SISIML_CLIENT">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FelipeDeveloperFullStack/SISIML-FRONTEND-MERCADO-LIVRE">
 
-  <a href="https://github.com/FelipeDeveloperFullStack/SISIML_CLIENT/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDeveloperFullStack/SISIML_CLIENT">
+  <a href="https://github.com/FelipeDeveloperFullStack/SISIML-FRONTEND-MERCADO-LIVRE/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/FelipeDeveloperFullStack/SISIML-FRONTEND-MERCADO-LIVRE">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
