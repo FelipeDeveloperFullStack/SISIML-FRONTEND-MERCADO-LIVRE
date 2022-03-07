@@ -1,5 +1,5 @@
 <h2 align="center">
-  🚀 Sistema para gerenciamento de vendas e produtos - Mercado Livre
+  🚀 [Frontend] - Sistema para gerenciamento de vendas e produtos - Mercado Livre
 </h2>
 
 <p align="center">
